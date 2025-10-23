@@ -1,0 +1,4 @@
+python-docx
+pdfminer.six
+textract
+tkinterdnd2; platform_system == "Windows"
